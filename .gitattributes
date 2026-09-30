@@ -1,0 +1,5 @@
+# Exclude auto-generated desktop platform scaffolds from GitHub language stats.
+# App targets Android/iOS only; these folders are Flutter boilerplate.
+linux/** linguist-vendored
+windows/** linguist-vendored
+macos/** linguist-vendored
